@@ -28,6 +28,10 @@ replay_pid*
 
 # gradle
 .gradle/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 build
 
 
@@ -36,4 +40,5 @@ build
 
 # hyperskill learning directories etc #
 */task/*
+*/task.html
 /Topics
