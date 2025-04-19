@@ -1,3 +1,6 @@
+# course config files
+*.yaml
+
 # Compiled class file
 *.class
 
@@ -23,5 +26,14 @@
 hs_err_pid*
 replay_pid*
 
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
 # hyperskill learning directories etc #
-*\task\*
+*/task/*
+/Topics
