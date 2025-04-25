@@ -42,3 +42,9 @@ build
 */task/*
 */task.html
 /Topics
+gradle/wrapper/gradle-wrapper.properties
+Cinema Room Manager/Add menu to your application/task.html
+Cinema Room Manager/Calculate the profit/task.html
+Cinema Room Manager/Manage stats and make your app error-prone/task.html
+Cinema Room Manager/Print seats/task.html
+Cinema Room Manager/Set the ticket price/task.html
